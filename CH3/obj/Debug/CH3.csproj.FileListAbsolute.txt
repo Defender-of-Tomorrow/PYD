@@ -1,0 +1,7 @@
+D:\PROJECT\STUDY\STUDY_Csharp\CH3\bin\Debug\CH3.exe.config
+D:\PROJECT\STUDY\STUDY_Csharp\CH3\bin\Debug\CH3.exe
+D:\PROJECT\STUDY\STUDY_Csharp\CH3\bin\Debug\CH3.pdb
+D:\PROJECT\STUDY\STUDY_Csharp\CH3\obj\Debug\CH3.csproj.AssemblyReference.cache
+D:\PROJECT\STUDY\STUDY_Csharp\CH3\obj\Debug\CH3.csproj.CoreCompileInputs.cache
+D:\PROJECT\STUDY\STUDY_Csharp\CH3\obj\Debug\CH3.exe
+D:\PROJECT\STUDY\STUDY_Csharp\CH3\obj\Debug\CH3.pdb
